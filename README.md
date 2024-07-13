@@ -4,4 +4,7 @@ This is the companion source code to a paper that I published on Springer "Imagi
 
 As a case study, an extension to a Particle Swarm Optimization (PSO) metaheuristic algorithm has been performed by implementing and incorporating various test-purpose imaging techniques and benchmarking them on a platform for comparing continuous optimizers in a black box setting called COCO. The performance of the developed techniques is evaluated against each other, and against the particle swarm optimization algorithm alone based on the criterion of how many function evaluations were required to reach the set of target values defined by COCO platform.
 
-![alt text](<General Workflow.png>)
+<br/>
+<img src="General Workflow.png" alt="drawing" width="350"/>
+
+
